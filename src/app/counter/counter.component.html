@@ -1,0 +1,20 @@
+<div class="center">
+    <mat-card class="example-card">
+        <mat-card-header>
+            <mat-card-title>Counter</mat-card-title>
+            <mat-card-subtitle>+/ -</mat-card-subtitle>
+        </mat-card-header>
+        <div style="text-align: center; font-size: xx-large; padding: 10px;">
+            {{count}}
+        </div>
+        <mat-card-content>
+            <p>
+                Timer: Click Increment to increase the counter value or Decrement to decrease the value.
+            </p>
+        </mat-card-content>
+        <mat-card-actions>
+            <button (click)="decrement()" mat-raised-button color="warn">Decrement</button>
+            <button (click)="increment()" mat-raised-button color="primary">Increment</button>
+        </mat-card-actions>
+    </mat-card>
+</div>
