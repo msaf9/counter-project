@@ -1,7 +1,18 @@
-<div class="center">
-    <button (click)="decrement()" mat-raised-button color="warn">Decrement</button>
-    <div class="counter-text">
-        {{count}}
+<div class="center-height">
+    <div class="center">
+        <button (click)="decrement()" mat-mini-fab color="warn" aria-label="a mins button">
+            -
+        </button>
+        <div class="counter-text">
+            {{count}}
+        </div>
+
+        <button (click)="increment()" mat-mini-fab color="primary" aria-label="a plus button">
+            +
+        </button>
     </div>
-    <button (click)="increment()" mat-raised-button color="primary">Increment</button>
+
+    <div class="center pad-top">
+        <button (click)="reset()" mat-raised-button color="primary">Reset</button>
+    </div>
 </div>

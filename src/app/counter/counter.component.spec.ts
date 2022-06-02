@@ -32,4 +32,9 @@ describe('CounterComponent', () => {
     component.count = 2;
     expect(component.increment()).toEqual(3);
   });
+
+  it('test for reset', () => {
+    component.count = 2;
+    expect(component.reset()).toEqual(0);
+  });
 });
