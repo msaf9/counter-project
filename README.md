@@ -45,5 +45,7 @@ cd CounterProject
 ```
 
 ### URLs
+- Deployed to Firebase
+  - Access the [app](https://materialcounterui.web.app/)  
 
 ## License
