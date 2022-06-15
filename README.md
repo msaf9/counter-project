@@ -1,9 +1,7 @@
 # Counter
 A simple counter using Angular.
 
-## Table of contents
 - [Counter](#counter)
-  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
     - [Development server](#development-server)
     - [Code scaffolding](#code-scaffolding)
