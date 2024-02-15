@@ -48,8 +48,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/CounterProject.git
-cd CounterProject
+git https://github.com/msaf9/counter-project.git
+cd counter-project
 ```
 
 ### URLs
