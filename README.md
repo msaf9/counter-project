@@ -1,6 +1,8 @@
 # Counter
 A simple counter using Angular.
 
+<h2>Table of contents</h2>
+
 - [Counter](#counter)
   - [Introduction](#introduction)
     - [Development server](#development-server)
@@ -9,7 +11,7 @@ A simple counter using Angular.
     - [Running unit tests](#running-unit-tests)
     - [Running end-to-end tests](#running-end-to-end-tests)
     - [Further help](#further-help)
-  - [Technologies](#technologies)
+  - [Technology Stack](#technology-stack)
   - [Project status](#project-status)
   - [Installation](#installation)
     - [Get repository](#get-repository)
@@ -38,7 +40,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ### Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Technologies
+## Technology Stack
 - Angular
 - Firebase
 
