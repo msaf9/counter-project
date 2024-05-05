@@ -59,3 +59,4 @@ cd counter-project
   - Access the [app](https://materialcounterui.web.app/)  
 
 ## License
+[MIT License](LICENSE)
